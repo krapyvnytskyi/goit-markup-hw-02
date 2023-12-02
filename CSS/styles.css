@@ -30,7 +30,7 @@ letter-spacing: 0.02em;
 }
 
 .menu-link:hover,
-.menu-link.focus,
+.menu-link:focus,
 .menu-link:active,
 .contacts-link:hover,
 .contacts-link:focus {
