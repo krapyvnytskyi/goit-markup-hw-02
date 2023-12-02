@@ -31,9 +31,7 @@ letter-spacing: 0.02em;
 
 .menu-link:hover,
 .menu-link.focus,
-.menu-link-studio:hover,
-.menu-link-studio:focus,
-.menu-link-studio:active,
+.menu-link:active,
 .contacts-link:hover,
 .contacts-link:focus {
 color:#404BBF;
