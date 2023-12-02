@@ -65,11 +65,7 @@ color:#404BBF;
 }
 
 .hero-button:hover,
-.hero-button:focus,
-.logo-studio-header:hover,
-.logo-studio-header:focus,
-.logo-studio-footer:hover,
-.logo-studio-footer:focus {
+.hero-button:focus {
   background-color: #404BBF
 }
 .name-section,
